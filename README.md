@@ -31,7 +31,7 @@ This project aims at displaying global covid-19 statistics in a easy to visualiz
 
 
 ### **Installation**
-Anaconda must be installed on your system if running locally.
+Python must be installed on your system if running locally.
 
 1. Clone the repo
    ```sh
