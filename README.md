@@ -60,7 +60,7 @@ Display on a chloropleth world map<br/><hr width=600/>
   <img src="./images/map.jpg" width=600 ><br/><br/>
 Options to choose metrics whose statistics we want to know<br/><hr width=600/>
   <img src="./images/options.jpg" width=600 ><br/><br/>
-Value seen after clicking<br/><hr width=600/>
+Value seen after clicking a country(India in this case)<br/><hr width=600/>
   <img src="./images/click.jpg" width=600><br/>
 </div>
 <br/>
